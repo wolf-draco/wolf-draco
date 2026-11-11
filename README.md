@@ -27,6 +27,12 @@ Soy un universitario boliviano en la **U.M.R.P.S.F.X.CH.** apasionado por la tec
 
 ---
 
+### 🏢 Organizaciones
+
+- [Geekeando Net](https://github.com/geekeando-net)
+
+---
+
 ### 🔭 Proyectos y Metas
 
 * 🌱 Perfeccionando mis bases en Ciencias de la Computación.
