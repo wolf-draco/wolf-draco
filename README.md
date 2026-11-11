@@ -14,6 +14,8 @@ Soy un universitario boliviano de la **Universidad Mayor Real y Pontificia de Sa
 ![Visual Studio Code](https://img.shields.io/badge/Visual%20Studio%20Code-0078d7.svg?style=for-the-badge&logo=visual-studio-code&logoColor=white)
 ![Arduino](https://img.shields.io/badge/-Arduino-00979D?style=for-the-badge&logo=Arduino&logoColor=white)
 
+### 💻 Lenguages de Programación
+
 ![C++](https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white)
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
 ![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
@@ -54,4 +56,4 @@ Soy un universitario boliviano de la **Universidad Mayor Real y Pontificia de Sa
 [![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:Carranza.Arandia.Rafael@gmail.com)
 [![Portfolio](https://img.shields.io/badge/Portfolio-00bfff?style=for-the-badge&logo=firefox&logoColor=white)](https://wolf-draco.github.io/)
 
-> "La informática es, para mí, una herramienta de cambio y progreso."
+> "La informática es, para mí, una herramienta de cambio y progreso."****
